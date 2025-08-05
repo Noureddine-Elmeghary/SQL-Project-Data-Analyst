@@ -1,1 +1,2 @@
 # SQL-Project-Data-Analyst
+This project contains a set of SQL queries used for analyzing sales data, including trend analysis, category performance, customer insights and other analysis. To run the queries, make sure to first import the database tables provided in the Data-Tables folder of this repository. These tables (e.g., fact_sales, dim_products, etc.) are required for the scripts to work correctly. Once the data is imported into your SQL environment, you can execute the queries found in the queries/ folder.
