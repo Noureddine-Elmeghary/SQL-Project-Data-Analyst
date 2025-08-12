@@ -1,6 +1,6 @@
 /*
 =========================================
-Product Report
+Product Performance Report
 =========================================
 */ 
 
@@ -73,4 +73,5 @@ CASE
 	ELSE Total_Sales / lifespan
 END AS avg_monthly_revenue
 FROM product_aggregation
+
 
